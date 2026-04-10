@@ -1,6 +1,9 @@
-Nama:Renita Noviani Safitri 
-Kelas:X.AKl
-Sekolah: SMK Muhammadiyah 3 Giriwoyo 
-Cita-cita: Guru
-tentang saya:saya suka jalan-jalan dan belajar tentang hal yang baru.
-Hobi: berenang 
+# Biodata saya
+**Nama:** Renita Noviani Safitri
+**sekolah:** SMK muh 3 Giriwoyo
+**cita-cita:** Menjadi web developer
+## Tentang saya 
+Halo! Saya sedang belajar pemrograman dan ini adalah repository pertama saya di GitHub. saya tertarik dengan dunia teknologi dan ingin terus belajar hal baru. 
+## Hobi
+-Berenang
+
